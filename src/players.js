@@ -1,0 +1,86 @@
+// src/players.js/all the players info ar here
+const players = [
+    {
+        name: 'LeBron James',
+        team: 'Los Angeles Lakers',
+        nationality: 'American',
+        jerseyNumber: 23,
+        age: 36,
+        imageUrl: '/lebron.jpg',
+    },
+    {
+        name: 'Kevin Durant',
+        team: 'Brooklyn Nets',
+        nationality: 'American',
+        jerseyNumber: 7,
+        age: 32,
+        imageUrl: '/kevin.jpg',
+    },
+    {
+        name: 'Stephen Curry',
+        team: 'Golden State Warriors',
+        nationality: 'American',
+        jerseyNumber: 30,
+        age: 33,
+        imageUrl: 'steph.jpg',
+    },
+    {
+        name: 'Giannis Antetokounmpo',
+        team: 'Milwaukee Bucks',
+        nationality: 'Greek',
+        jerseyNumber: 34,
+        age: 27,
+        imageUrl: '/giannis.jpg',
+    },
+    {
+        name: 'Anthony Davis',
+        team: 'Los Angeles Lakers',
+        nationality: 'Americain',
+        jerseyNumber: 3,
+        age: 30,
+        imageUrl: '/davis.jpg',
+    },
+    {
+        name: 'Kyrie Irving',
+        team: 'Dallas Mavericks',
+        nationality: 'American',
+        jerseyNumber: 2,
+        age: 31,
+        imageUrl: '/kyrie.jpg',
+    },
+    {
+        name: 'James Harden',
+        team: 'Brooklyn Nets',
+        nationality: 'American',
+        jerseyNumber: 1,
+        age: 34,
+        imageUrl: '/harden.jpg',
+    },
+    {
+        name: 'Klay Thompson',
+        team: 'Golden State Warriors',
+        nationality: 'American',
+        jerseyNumber: 11,
+        age: 33,
+        imageUrl: '/klay.jpg',
+    },
+    {
+        name: 'Joel Embiid',
+        team: 'Milwaukee Bucks',
+        nationality: 'Greek',
+        jerseyNumber: 21,
+        age: 29,
+        imageUrl: '/joel.jpg',
+    },
+    {
+        name: 'Kawhi Leonard',
+        team: 'Los Angeles Lakers',
+        nationality: 'Americain',
+        jerseyNumber: 2,
+        age: 32,
+        imageUrl: '/kawhii.jpg',
+    },
+
+];
+
+export default players;
